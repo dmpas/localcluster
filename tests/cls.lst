@@ -1,0 +1,40 @@
+{0,
+{6a0a0178-55a9-416a-9f5d-80bfa49619e0,"Локальный кластер",1541,"ud-75",0,0,0,0,0,0,0,
+{1,
+{"ud-75",1541}
+},0,0,0},
+{2,
+{15c56c12-223d-4e4d-a3a9-c9ba00bec69c,"rts","","PostgreSQL","localhost","rts","postgres","base64-pass","CrSQLDB=Y;DB=rts;DBMS=PostgreSQL;DBSrvr=localhost;DBUID=postgres;LIC=2783486241661426690;LicDstr=Y;Locale=ru_RU;Ref=rts;SchJobDn=Y;SLev=0;Srvr=localhost",0,
+{0,00010101000000,00010101000000,"","",""},1,1,"",0,"","",5},
+{c00294bd-645c-46ee-bcc4-7a0649a7c5cd,"utnom","","PostgreSQL","10.10.20.60","utnom","postgres","base64-pass","CrSQLDB=Y;DB=utnom;DBMS=PostgreSQL;DBSrvr=10.10.20.60;DBUID=postgres;Descr=;Locale=ru_RU;Ref=utnom;SLev=0;SQLYOffs=0;Srvr=ud-75",0,
+{0,00010101000000,00010101000000,"","",""},1,0,"",0,"","",1550}
+},
+{1,
+{ab35d535-b5fd-4e80-9871-e63ca49ea56c,"ud-75",1,1,
+{8.559909025121472e-3,8.559909025121472e-3,0,0,0,19346,4.009312461842413e-3,0,40916,0,100,58,355976580,0,0},1000,ff5dc625-b44b-4125-a01f-3fa47488aada}
+},
+{0},
+{1,
+{ff5dc625-b44b-4125-a01f-3fa47488aada,"Центральный сервер",1540,"ud-75",1,
+{1,
+{1560,1591}
+},"","alyoA04HZkna6yOEgSgtkQ==",0,0,8,8,1000,1,0,1,0,1,1541}
+},
+{1,
+{5e3022cc-983e-4b87-932a-ab3e8f07f3dc,"Главный менеджер кластера","ud-75",1,1,ff5dc625-b44b-4125-a01f-3fa47488aada}
+},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0,0},0,
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},
+{0},1553}
